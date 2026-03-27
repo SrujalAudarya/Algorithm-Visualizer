@@ -32,7 +32,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-2 pt-1">
               <a
-                href="https://github.com"
+                href="https://github.com/SrujalAudarya/Algorithm-Visualizer/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg glass text-muted-foreground hover:text-primary transition-colors"
